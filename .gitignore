@@ -1,2 +1,9 @@
 ragenv/
+<<<<<<< HEAD
 .env
+=======
+/ragenv
+.env
+
+
+>>>>>>> f1601d8f (new branch)
