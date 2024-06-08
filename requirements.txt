@@ -2,9 +2,7 @@ langchain
 unstructured # Document loading
 chromadb # Vector storage
 openai # For embeddings
-<<<<<<< HEAD
 tiktoken  # For embeddings
-=======
 tiktoken  # For embeddings
 pinecone-client
 langchain
@@ -21,4 +19,3 @@ pinecone-client
 scikit-learn
 datasets==2.10.1
 pypdf
->>>>>>> bbd986e9 (updating vectore sore)
