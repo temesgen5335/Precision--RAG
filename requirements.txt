@@ -3,6 +3,10 @@ unstructured # Document loading
 chromadb # Vector storage
 openai # For embeddings
 tiktoken  # For embeddings
+<<<<<<< HEAD
+=======
+tiktoken  # For embeddings
+>>>>>>> 07685709 (Resolved merge conflict in .env)
 pinecone-client
 langchain
 langchain-openai
@@ -18,4 +22,7 @@ pinecone-client
 scikit-learn
 datasets==2.10.1
 pypdf
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07685709 (Resolved merge conflict in .env)

@@ -1,4 +1,4 @@
-Renv/
+/Renv
 .env
 Rag_with_Langchain.ipynb
 
