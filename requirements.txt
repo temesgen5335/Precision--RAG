@@ -18,3 +18,4 @@ pinecone-client
 scikit-learn
 datasets==2.10.1
 pypdf
+
