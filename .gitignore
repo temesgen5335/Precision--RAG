@@ -1,10 +1,3 @@
-ragenv/
-<<<<<<< HEAD
-.env
-=======
-/ragenv
 Renv/
 .env
-
-
->>>>>>> f1601d8f (new branch)
+Rag_with_Langchain.ipynb
